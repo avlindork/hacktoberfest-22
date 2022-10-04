@@ -21,9 +21,6 @@ October is here ! Stand for a chance to win merch from [Hacktoberfest](https://h
 ︰・If your PR gets merged, Hacktoberfest staff will analyse it, and upon a successful and valid merge, it will be counted as 1 contribution in your [profile](https://hacktoberfest.com/profile/).\
 ╰︰Create 4 successful PRs and earn a merch from Hacktoberfest !!!!\
 
-```bash
-  
-```
 
 ## . ✎ Contributions to this repo
 
